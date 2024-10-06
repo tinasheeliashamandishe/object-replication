@@ -15,7 +15,7 @@ Azure Storage Object Replication refers to the capabilities provided by Microsof
 <p align="center">
 
 <h4>Step 1</h4> 
-Create 2 Storage Account resources and create containers.<br/>
+Create 2 Storage Account resources and create containers in them.<br/>
 <img src="https://i.imgur.com/ZSdcwpC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/th6llVb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
